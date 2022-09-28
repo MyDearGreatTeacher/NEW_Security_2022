@@ -66,7 +66,7 @@
 
 ## 更多台灣舉辦的ctf(以字母順序陳列+請上網搜尋)  若有遺漏煩請告知! 謝謝
 - AIS3 CTF
-- AIS3 EOF CTF
+- [AIS3 EOF CTF](https://ais3.org/eof)
 - [Balsn CTF](https://balsn.tw/)
 - BambooFox CTF
 - [MyFirstCTF](https://ais3.org/mfctf/)
