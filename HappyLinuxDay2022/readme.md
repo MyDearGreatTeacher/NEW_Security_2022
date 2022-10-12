@@ -30,8 +30,8 @@
 - 進階練習
   - 使用VirtualBox建置Linux學習系統
   - Kali linux的認識
-### B.隱寫術 Steganography快速入門 (上課時數: 1 小時左右課程)
 
+### B.隱寫術 Steganography快速入門 (上課時數: 1 小時左右課程)
 - 1_認識 隱寫術 Steganography 
 - 2_圖片隱寫術之1:基本入門技_使用linux 基本指令file|strings|grep
 - 3_圖片隱寫術之2:圖片內嵌解答圖片的解題
@@ -41,7 +41,9 @@
 - 4_圖片隱寫術之3:圖片的metadata    
 
 ### C.使用Linux進行網路鑑識分析(進階課程 上課時數:2 小時)
-- 1.認識wireshark
+- 1.網路協定初認識
+- 2.網路鑑識(Network Forensics)
+- 3.認識wireshark
 - 2.網路鑑識分析第一步:使用file 和 string 指令進行分析
 - 3.使用wireshark檢視出user使用的瀏覽器版本號
 - 4.使用wireshark分析HTTP Basic Authentication(認證)封包
