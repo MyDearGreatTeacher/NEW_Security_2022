@@ -16,6 +16,13 @@
 - TSUGURI LINUX 實戰
 
 - Linux NEWS
+  - 1991:
+  - 1993: Red Hat公司成立
+  - 1993: [Debian](https://en.wikipedia.org/wiki/Debian)
+  - 2003: Android公司成立 (2005年Google收購)
+  - 2004: Ubuntu Linux
+  - 2006: [BackTrack](https://www.backtrack-linux.org/)
+  - 2013: Kali Linux
   - [IBM完成Red Hat 340億美元收購，重申開放性不變(2019)](https://www.ithome.com.tw/news/131758)
   - [歷史不能重來，三星悔當年沒買 Android(2014)](https://buzzorange.com/techorange/2014/02/18/httpwww-ifanr-com401932/)
   - [KALI 和 OFFENSIVE-SECURITY 核心人员](https://www.cnblogs.com/GKLBB/p/13218428.html)
