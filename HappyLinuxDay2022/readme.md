@@ -11,7 +11,7 @@
 - 匯入你要用的linux  [YOUTUBE影片](https://youtu.be/GTpQR7fZcwE)
 
 #### Z3.後續會使用到的
-- 首先請申請Google帳號
+- 首先請申請[Google帳號](https://www.google.com/)
 - 再請申請 [github帳號](https://github.com/)
 
 ### A.快速體驗linux作業系統(上課時數: 1 小時左右課程)
