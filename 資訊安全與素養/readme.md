@@ -13,6 +13,7 @@
   - 使用ping進行網路連通測試
   - 使用netstat 檢視各種連線
 - kALI LINUUX實戰
+- TSUGURI LINUX 實戰
 
 
 
