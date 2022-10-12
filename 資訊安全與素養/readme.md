@@ -16,7 +16,8 @@
 - TSUGURI LINUX 實戰
 
 
-
+- [IBM完成Red Hat 340億美元收購，重申開放性不變(2019)](https://www.ithome.com.tw/news/131758)
+- [歷史不能重來，三星悔當年沒買 Android(2014)](https://buzzorange.com/techorange/2014/02/18/httpwww-ifanr-com401932/)
 # 期末平時報告:癮寫術的資安實戰
 
 # 期末報告:我的第一份網路鑑識實戰手技
