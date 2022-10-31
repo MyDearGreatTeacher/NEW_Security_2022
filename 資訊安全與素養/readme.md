@@ -1,3 +1,6 @@
+#  
+https://meet.google.com/waz-kknk-rek
+
 # 本學期成績計算(如何確保我一定會PASS)
 
 # 期中平時報告:資訊安全目標與技術實戰
