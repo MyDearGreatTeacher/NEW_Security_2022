@@ -5,7 +5,9 @@
    保護CIA的各種技術
 2.雜湊函數與實戰
 3.密碼學的基本認知
-4.linux實戰技術
+4.WINDOWS 安全實戰技術
+  netstat 
+  taskkill
 5.Linux-CTF解題
 ```
 
