@@ -14,7 +14,23 @@
   - [英文版wiki說明](https://en.wikipedia.org/wiki/Hash_function)
   - [中文版wiki說明:雜湊函式](https://zh.wikipedia.org/wiki/%E6%95%A3%E5%88%97%E5%87%BD%E6%95%B8)
 - 雜湊函數實戰:linux指令
-- 雜湊函數實戰:Windows指令
+  - md5sum  ==> MD5 128-bit checksums
+    - [How to Use the md5sum Command in Linux](https://phoenixnap.com/kb/md5sum-linux) 
+    - [Linux md5sum command](https://www.computerhope.com/unix/md5sum.htm)
+    - 範例用法:  md5sum date.txt
+  - shasum 
+    - [SHASUM Command on Linux](https://linuxhint.com/shasum-linux/)  
+      - SHA-256 — generates a digest of 32 bytes
+        - 範例用法: shasum demo.txt
+        - 範例用法: sha1sum demo.txt 
+        - 範例用法: shasum -a 256 demo.txt
+      - SHA-384 — generates a digest of 48 bytes
+        - [Linux sha384sum command](https://www.computerhope.com/unix/sha384sum.htm) 
+        - 範例用法: sha384sum example.iso
+      - SHA-512 — generates a digest of 64 bytes
+        - [Linux sha512sum command](https://www.computerhope.com/unix/sha512sum.htm)
+        - 範例用法: sha512sum example.iso 
+- 雜湊函數實戰:Windows指令:
 
 ```
 C:\Users\User>certutil /?
