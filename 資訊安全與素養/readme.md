@@ -31,4 +31,8 @@
 
 # 期末平時報告:癮寫術的資安實戰
 
-# 期末報告:我的第一份網路鑑識實戰手技
+# 期末報告:我的第一份網路鑑識實戰手技(network Forensics)
+- Forensics
+- wireshark
+- network forensic
+
