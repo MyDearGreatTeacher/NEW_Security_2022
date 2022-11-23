@@ -38,3 +38,13 @@
   -  
 - network forensic
 
+```
+Forensics
+Network forensics
+Wireshark
+CTF
+```
+- [數位鑑識](https://zh.wikipedia.org/wiki/%E6%95%B8%E4%BD%8D%E9%91%91%E8%AD%98)
+- [網路鑑識](https://www.geeksforgeeks.org/what-is-network-forensics/)
+- [網路鑑識](https://en.wikipedia.org/wiki/Network_forensics)
+
