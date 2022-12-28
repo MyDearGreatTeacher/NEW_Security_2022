@@ -30,6 +30,17 @@
   - [KALI 和 OFFENSIVE-SECURITY 核心人员](https://www.cnblogs.com/GKLBB/p/13218428.html)
 
 # 期末平時報告:癮寫術的資安實戰
+```
+file carter.jpg
+strings carter.jpg
+hexdump carter.jpg
+
+binwalk carter.jpg
+dd if=carter.jpg of=A888168.jpg skip=140147 bs=1
+```
+- [List of file signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
+  - 找jpg檔案特徵
+- [CTF中图片隐藏文件分离方法总结](https://hackfun.org/2017/01/12/CTF%E4%B8%AD%E5%9B%BE%E7%89%87%E9%9A%90%E8%97%8F%E6%96%87%E4%BB%B6%E5%88%86%E7%A6%BB%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/)
 
 # 期末報告:我的第一份網路鑑識實戰手技(network Forensics)
 - Forensics
