@@ -2,6 +2,9 @@
 
 # 本學期成績計算(如何確保我一定會PASS)
 
+## 資安證照IPAS
+- [IPAS](https://github.com/MyDearGreatTeacher/IPAS2022)
+
 # 期中平時報告:資訊安全目標與技術實戰
 - 資訊安全目標:CIA
 - 破換CIA的各種資安情境
