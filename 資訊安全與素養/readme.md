@@ -13,7 +13,7 @@
 - 密碼學的基本認知
 
 # 期中報告:資訊安全分析的linux實戰
-
+- 參考資料 [Linux 教程](https://www.runoob.com/linux/linux-tutorial.html)
 - 熟悉linux網路指令
   - 使用ping進行網路連通測試
   - 使用netstat 檢視各種連線
