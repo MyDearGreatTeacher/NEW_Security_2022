@@ -2,6 +2,9 @@
 
 # 本學期成績計算(如何確保我一定會PASS)
 
+http://172.20.155.145:8080/
+
+
 ## 資安證照IPAS
 - [IPAS](https://github.com/MyDearGreatTeacher/IPAS2022)
 
